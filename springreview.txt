@@ -1,0 +1,30 @@
+Sprint Review and Retrospective Paper
+Sprint Review and Retrospective
+Carter Nadain
+
+CS 250
+
+October 15, 2024
+
+Applying Roles
+Each Scrum role played a key part in the success of the SNHU Travel project. As the Scrum Master, I made sure we had daily stand-ups where the team could talk about what they were working on and handle any blockers. For example, when there was an issue adding a new feature, I quickly set up a meeting to sort it out, which helped us solve the problem faster (Schwaber & Sutherland, 2017). The Product Owner kept the focus on the most important user stories, guiding the team to work on features that mattered most to SNHU Travel. Developers took care of building the features, while Testers made sure everything worked as expected. This setup made it easier to get things done smoothly (Pressman & Maxim, 2019).
+Completing User Stories
+Using a Scrum-Agile approach made it easier to get user stories finished. For instance, the "Top 5 or 10 Destinations List" story was split into smaller tasks, and developers tackled those during the sprint. By working in short cycles, we could quickly show what we’d done and get feedback, making the final product better (Beck et al., 2001).
+Handling Interruptions
+One big advantage of Agile is flexibility. During the project, the client wanted to change how budget-based recommendations worked. Instead of it causing a huge disruption, we just adjusted the sprint backlog and changed the priority of tasks (Schwaber & Sutherland, 2017). Agile’s flexible setup allowed us to handle changes without throwing off the timeline (Sommerville, 2016).
+Communication
+Good communication was a big part of why we succeeded. During stand-ups, everyone shared updates on any issues they were facing. For example, when a developer spotted a bug, they told the group, and we fixed it quickly. This open talk helped the team work well together and keep things moving (Schwaber & Sutherland, 2017). Sprint reviews and retrospectives also gave us time to reflect and find ways to improve (Pressman & Maxim, 2019).
+Organizational Tools
+We used Trello to manage tasks and user stories. It helped us see how each task was progressing and spot any blockers. Scrum events like sprint planning, stand-ups, and sprint reviews kept everyone on the same page (Sommerville, 2016). These tools and events make sure the project stays on track and that we meet deadlines (Beck et al., 2001).
+Evaluating Agile Process
+Pros and Cons
+The Scrum-Agile approach had some clear benefits, like getting faster feedback, being able to adapt to changes, and encouraging better teamwork. On the flip side, it had some downsides, like managing constant changes and making sure everyone stayed in sync. Even with the challenges, Agile helped us finish the project efficiently (Schwaber & Sutherland, 2017).
+Was Agile the Best Approach?
+With the need for regular feedback and changing requirements, the Scrum-Agile approach was the best fit for the SNHU Travel project. It gave us the flexibility to make changes and still deliver a product that met the client’s needs (Beck et al., 2001).
+
+
+References
+Beck, K., et al. (2001). Manifesto for Agile Software Development. Agile Alliance. Retrieved from https://agilemanifesto.org/
+Schwaber, K., & Sutherland, J. (2017). The Scrum Guide. Scrum.org. Retrieved from https://scrumguides.org/
+Pressman, R. S., & Maxim, B. R. (2019). Software Engineering: A Practitioner's Approach. McGraw-Hill Education.
+Sommerville, I. (2016). Software Engineering (10th ed.). Pearson Education.
